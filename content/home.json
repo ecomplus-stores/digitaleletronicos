@@ -1,6 +1,6 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Loja Transfer Condições de Entrega",
+  "meta_description": "Garantimos sempre os melhores preços com nossa modalidade Transfer. ",
   "sections": [
     {
       "type": "banner-slider",
@@ -70,7 +70,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/black-das-black.png"
+      "img": "/img/uploads/processo-transfer.png",
+      "link": "https://www.lojatransfer.com.br/pages/entrega"
     },
     {
       "type": "brands-carousel",
