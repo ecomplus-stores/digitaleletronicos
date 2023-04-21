@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Todo site com parcelamento até 8X Sem Juros | 10% OFF via PIX ou Boleto",
+    "text": "Todo site com parcelamento até 6X Sem Juros | 10% OFF via PIX ou Boleto",
     "link": ""
   },
   "contacts_stripe": {
@@ -19,5 +19,8 @@
     "full_width": false
   },
   "search_input": true,
-  "desktop_megamenu": true
+  "desktop_megamenu": true,
+  "centralized_logo": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
